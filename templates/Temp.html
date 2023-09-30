@@ -1,0 +1,67 @@
+<html> 
+<style>
+body {
+    text-align: center;
+    text-decoration-color: #ffffff;
+    background-color: black;
+}
+form {
+    display: inline-block;
+}
+h3{
+     
+  color: #ffffff;
+
+}
+p{
+    text-align: center;
+}
+</style>
+   <body> 
+        
+       <h3>Hey Folks, Please submit your recorded video for analysis.</h3> 
+       <div id="video-upload">
+        <h2>Upload a Video</h2>
+        <form id="upload-form" enctype="multipart/form-data">
+            <input type="file" id="video-file" name="video" accept="video/*">
+            
+        </form>
+        <p id="upload-status"></p>
+    </div>
+     document.addEventListener('DOMContentLoaded', function () {
+        const uploadForm = document.getElementById('upload-form');
+        const videoFileInput = document.getElementById('video-file');
+        const uploadStatus = document.getElementById('upload-status');
+
+        uploadForm.addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const formData = new FormData(uploadForm);
+
+            // You can send the formData to the server using fetch or XMLHttpRequest.
+            // Example using fetch:
+            fetch('/upload', {
+                method: 'POST',
+                body: formData,
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Handle the server's response, e.g., display a success message.
+                uploadStatus.textContent = data.message;
+            })
+            .catch(error => {
+                // Handle errors, e.g., display an error message.
+                uploadStatus.textContent = 'Error uploading the video.';
+                console.error(error);
+            });
+        });
+    });
+      <form action = "/result" method = "get"> 
+         <!-- <p>Name <input type = "text" name = "name" /></p> 
+         <p>Email <input type = "email" name = "email" /></p> 
+         <p>Phone Num <input type = "text" name = "phone" /></p>  -->
+         <p><input type = "submit" value = "Submit" /></p> 
+      </form> 
+      <h4>Created by Akash, Geeks for Geeks</h4>
+   </body> 
+</html>

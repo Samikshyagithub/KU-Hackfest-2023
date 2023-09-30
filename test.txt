@@ -1,0 +1,5 @@
+ Hello, I'm Samikshya Upadhyay, a computer engineering student with a passion for frontend development. What truly fascinates me is the world of 3D, which is why I've been diving into Three.js to explore the exciting possibilities it offers. In addition to my interest in 3D, I have a solid foundation in React and JavaScript, which have been my primary focus areas. I'm excited to discuss my experiences and knowledge with you today.
+Interviewer: Can you explain the difference between HTML, CSS, and JavaScript?
+Certainly. HTML (Hypertext Markup Language) is used for structuring the content of a web page, CSS (Cascading Style Sheets) is used for styling and layout, and JavaScript is a programming language used for interactivity and dynamic behavior on the web.
+Interviewer: How does a web browser render a webpage?
+A web browser renders a webpage by fetching and parsing the HTML, then creating a Document Object Model (DOM) representation of the page's structure. After that, it processes CSS to apply styles and finally executes JavaScript to add interactivity.

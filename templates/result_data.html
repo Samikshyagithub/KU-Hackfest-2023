@@ -1,0 +1,24 @@
+<!doctype html> 
+<html> 
+<style>
+body {
+    text-align: center;
+    background-color: Orange;
+}
+table {
+    display: inline-block;
+    border-collapse: collapse;
+}
+p{
+   color: red;
+}
+</style>
+   <body> 
+      <p><strong>Registration Successful, Please see your details</strong></p> 
+      <table border = 1> 
+         {% result %} 
+            <p>result</p>
+         {% endfor %} 
+      </table> 
+   </body> 
+</html>
