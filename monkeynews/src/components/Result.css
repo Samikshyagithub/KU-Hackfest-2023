@@ -1,0 +1,14 @@
+.answer{
+
+    color: aliceblue;
+}
+
+
+.answer-box{
+    width: 30%;
+    height: 50%;
+    background-color: antiquewhite;
+    box-shadow: 0 0 20px #6e6e6e;
+    padding-left: 20px;
+    color: black;
+}

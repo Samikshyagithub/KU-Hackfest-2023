@@ -1,0 +1,49 @@
+/* Custom CSS */
+.container.my-3 {
+    color: #dee2e6;
+    /* Set background color for the container */
+    padding: 20px; /* Add padding to the container */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: monospace; /* Set font family for the container */
+  }
+  .describe{
+
+    color: #dee2e6;
+    /* Set background color for the container */
+    padding: 20px; /* Add padding to the container */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: monospace; /* Set font family for the container */
+  }
+
+.set {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: monospace; /* Set font family for the heading */
+  }
+
+.row .col-md-4 {
+    margin-bottom: 20px; /* Add margin between grid items */
+  }
+
+.NewsItem {
+    border: 1px solid #dee2e6; /* Add border to grid items */
+    border-radius: 8px; /* Add border radius to round the corners of grid items */
+    padding: 20px; /* Add padding inside grid items */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow for a subtle elevation effect */
+  }
+
+.NewsItem h3 {
+    font-size: 20px; /* Set font size for the item title */
+    margin-bottom: 10px; /* Add margin below the item title */
+    font-family: monospace; /* Set font family for the item title */
+  }
+
+.NewsItem p {
+    font-size: 16px; /* Set font size for the item description */
+    color: #6c757d; /* Set text color for the item description */
+    font-family: monospace; /* Set font family for the item description */
+  }
