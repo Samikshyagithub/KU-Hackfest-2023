@@ -1,6 +1,6 @@
-# Name of the project
+# ConfiVerse: A Virtual Confidence Journey
 ## Overview
-NOP is a groundbreaking initiative which aims to use Artificial Intellegence(AI) and Virtual Reality(VR) to create a environment where we can see and view our surrounding realisticly. Also, create a face recognizing system which can detect a variety of emotions like happy, sad, angry and fear. This tool can be used for attending virtual meetings and seminars. This emotion recognizing system can help us with preparing mock interviews and tests and help to boost self confidence.
+ConfiVerse is a groundbreaking initiative which aims to use Artificial Intellegence(AI) and Virtual Reality(VR) to create a environment where we can see and view our surrounding realisticly. Also, create a face recognizing system which can detect a variety of emotions like happy, sad, angry and fear. This tool can be used for attending virtual meetings and seminars. This emotion recognizing system can help us with preparing mock interviews and tests and help to boost self confidence.
 ## Screenshots
 ### Click below to watch Video
 [Click here to watch the video] [Video Link]
