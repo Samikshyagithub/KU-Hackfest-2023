@@ -24,7 +24,7 @@ ConfiVerse is a groundbreaking initiative which aims to use Artificial Intellege
 - **Virtual Meetings and Seminars**: Facilitates attendance and interaction in virtual events.
 - **Nervousness Mitigation**: Helps users overcome anxiety in public speaking and presentations.
 - **User Friendly Interface**: Intuitive and easy-to-use for a seamless experience.
-- **Inclusivity**: 
+
 
 - View items in an virtual reality environment
 - Prepare for mock interview tests and preparations.
