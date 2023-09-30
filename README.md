@@ -15,8 +15,12 @@ ConfiVerse is a groundbreaking initiative which aims to use Artificial Intellege
 
 ## Features
 - **Virtual Reality (VR)**: Uses VR technology for an immersive and lifelike virtual world.
-- **Artificail Intellegence**: 
+- **Artificail Intellegence**: Uses AI technology to detect facial express to produce a result.
 - **Emotion Recoginition**: Detects emotions (e.g., happiness, sadness, anger, fear) in real time.
+- **Score Display**: Provide real time score by judging facial expression.
+- **Strength Identification**: Identifies your plus points to boost self confidence.
+- **Emotion Recoginition**: Detects emotions (e.g., happiness, sadness, anger, fear) in real time.
+- **Area of Improvement**: Suggests area of improvement to practice more and build confidence.
 - **Virtual Meetings and Seminars**: Facilitates attendance and interaction in virtual events.
 - **Nervousness Mitigation**: Helps users overcome anxiety in public speaking and presentations.
 - **User Friendly Interface**: Intuitive and easy-to-use for a seamless experience.
