@@ -20,10 +20,13 @@ ConfiVerse is a revolutionary platform designed to address the challenges faced 
 
 ## Technology Stack
 
-- Flutter 2.5.3
+- python
+- canva
+- flask
+- opencv
 - React and Javascript
 - Blender
-- 
+- langchain
 ## Usage
 1. Go to the website where Confiverse has been hosted.
 2. Choose your preferred virtual environment for practice.
