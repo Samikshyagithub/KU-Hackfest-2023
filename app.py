@@ -15,7 +15,6 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 
 # Create a Main route here
-
 os.environ["OPENAI_API_KEY"] = "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"
 
 llm = OpenAI(temperature=0, model_name="text-davinci-003")

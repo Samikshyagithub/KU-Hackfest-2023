@@ -11,12 +11,40 @@
     width: 100vw;
     height: 100vh;
 }
-
 .big-box {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+}
+     .video1{
+        position: absolute;
+        top: 0;
+        left: 0;
+             height:100%;
+              width:100%;
+              allowfullscreen:"true";
+              src:"https://momento360.com/e/u/cd7eb139613a40f2bcb78bd5b1fe1dd5?utm_campaign=embed&utm_source=other&heading=0&pitch=0&field-of-view=81.43&size=medium&display-plan=true"
+     }
+/* .big-box {
     height: 100%;
     width: 100%;
     background-color: #3498db; /* Background color of the big box */
-    position: absolute;
+    /* position: absolute; */
+
+/* .big-box {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+
+
+.video1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .small-box {

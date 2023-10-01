@@ -8,7 +8,7 @@ body {
 form {
     display: inline-block;
 }
-h3{
+h3 h2{
      
   color: #ffffff;
 
@@ -18,11 +18,11 @@ p{
 }
 </style>
    <body> 
-        
+<!--         
        <h3>Hey Folks, Please submit your recorded video for analysis.</h3> 
        <div id="video-upload">
-        <h2>Upload a Video</h2>
-        <form id="upload-form" enctype="multipart/form-data">
+        <h2 style="color: white;">Upload a Video</h2>
+        <form id="upload-form" enctype="multipart/form-data" method="get">
             <input type="file" id="video-file" name="video" accept="video/*">
             
         </form>
@@ -55,13 +55,12 @@ p{
                 console.error(error);
             });
         });
-    });
+    }); -->
       <form action = "/result" method = "get"> 
          <!-- <p>Name <input type = "text" name = "name" /></p> 
          <p>Email <input type = "email" name = "email" /></p> 
          <p>Phone Num <input type = "text" name = "phone" /></p>  -->
          <p><input type = "submit" value = "Submit" /></p> 
       </form> 
-      <h4>Created by Akash, Geeks for Geeks</h4>
    </body> 
 </html>
