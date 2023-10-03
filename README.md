@@ -26,7 +26,7 @@ ConfiVerse is a revolutionary platform designed to address the challenges faced 
 - OpenCV
 - React and Javascript
 - Blender
-- langchain
+- LangChain
 ## Usage
 1. Go to the website where Confiverse has been hosted.
 2. Choose your preferred virtual environment for practice.
