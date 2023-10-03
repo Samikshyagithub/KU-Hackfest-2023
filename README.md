@@ -51,7 +51,7 @@ ConfiVerse is a revolutionary platform designed to address the challenges faced 
 
 ## Contributors
 
--Samikshya Upadhyaya
+-Samikshya Upadhyay
 -Anish Pradhan 
 -Bishal Chaudhary
 -Bhaskar Babu Koirala
