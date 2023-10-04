@@ -24,7 +24,8 @@ ConfiVerse is a revolutionary platform designed to address the challenges faced 
 - Canva
 - Flask
 - OpenCV
-- React and Javascript
+- React
+- Javascript
 - Blender
 - LangChain
 ## Usage
